@@ -6,11 +6,11 @@ hide:
 
     This site is being actively worked on. 
     
-    Feel you could help? Please do by clicking on the page with a pencil on the right!
+     Do you feel you could help? Please do by clicking on the page with a pencil on the right of this text box!
 
     This can be done on any page, too.
 
-# Welcome to BeamMP Docs! :tada:
+# Welcome to BeamMP Offical Docs! :tada:
 
 Welcome to the new and improved documentation hub for BeamMP! Whether you're a player, server owner, or developer, we have the resources you need to enhance your BeamNG.drive multiplayer experience.
 
